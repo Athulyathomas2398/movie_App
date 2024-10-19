@@ -1,0 +1,16 @@
+body{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.card{
+    width: 800px;
+    height: 500px;
+    text-align: center;
+}
+#b{
+    color: white;
+    padding: 4px;
+}
